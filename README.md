@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Priya+%F0%9F%91%BE;Cybersecurity+%2B+AI+Engineer;Breaking+Things+%E2%80%94+Ethically.;Building+Tools+That+Fight+Back.)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00FFFF&height=120&section=header&text=Priya%20Patil&fontSize=40&fontColor=C084FC&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00FFFF&height=120&section=header&text=Priya%20Patil&fontSize=40&fontColor=A855F7&animation=fadeIn" width="100%"/>
 
 </div>
 
