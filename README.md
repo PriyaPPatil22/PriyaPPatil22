@@ -1,20 +1,20 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Priya+%F0%9F%91%BE;Cybersecurity+%2B+AI+Engineer;Breaking+Things+%E2%80%94+Ethically.;Building+Tools+That+Fight+Back.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Priya+%F0%9F%91%BE;Cybersecurity+%2B+AI+Engineer;Breaking+Things+%E2%80%94+Ethically.;Building+Tools+That+Fight+Back.)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:006400&height=120&section=header&text=Priya%20Patil&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00FFFF&height=120&section=header&text=Priya%20Patil&fontSize=40&fontColor=FF00FF&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
 ### 🧠 Who Am I?
-```bash
+````bash
 $ whoami
 > Cybersecurity Professional | AI-Powered Threat Intelligence Builder
-> CEH Certified | Google Cloud Cybersecurity | 
+> CEH Certified | Google Cloud Cybersecurity | BCA @ D.Y. Patil ACS College
 > Currently hunting vulnerabilities & training LLMs to fight back
-```
+` ` `
 
 ---
 
@@ -24,6 +24,7 @@ $ whoami
 |---|---|---|
 | 🔍 [llm-pentest-assistant](https://github.com/PriyaPPatil22) | LLM-powered pentest tool — scan, enrich, reason, report | Python, Groq, Flask, Scapy |
 | 🛡️ [PyScanner](https://github.com/PriyaPPatil22/pyscanner) | Network security auditor with CVE lookup & PDF reports | Python, Scapy, NVD API |
+| 🔥 [Firewall Project](https://github.com/PriyaPPatil22) | Custom firewall rules & packet filtering implementation | Python, Scapy, iptables |
 
 ---
 
@@ -31,27 +32,22 @@ $ whoami
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00BFFF)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00BFFF)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00BFFF)
-![Scapy](https://img.shields.io/badge/Scapy-000000?style=for-the-badge&logo=python&logoColor=00BFFF)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00BFFF)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6600)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=00BFFF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00BFFF)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logo=target&logoColor=FF0000)
-![LLM](https://img.shields.io/badge/LLM_Engineering-000000?style=for-the-badge&logo=openai&logoColor=00BFFF)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PriyaPPatil22&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00BFFF&icon_color=00BFFF" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaPPatil22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41" height="160"/>
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00FFFF)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D0D0D?style=for-the-badge&logo=kalilinux&logoColor=00FFFF)
+![Flask](https://img.shields.io/badge/Flask-0D0D0D?style=for-the-badge&logo=flask&logoColor=00FFFF)
+![Scapy](https://img.shields.io/badge/Scapy-0D0D0D?style=for-the-badge&logo=python&logoColor=00FFFF)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D0D0D?style=for-the-badge&logo=metasploit&logoColor=00FFFF)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D0D0D?style=for-the-badge&logo=burpsuite&logoColor=FF6600)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D0D0D?style=for-the-badge&logo=wireshark&logoColor=00FFFF)
+![Nmap](https://img.shields.io/badge/Nmap-0D0D0D?style=for-the-badge&logo=nmap&logoColor=7B2FBE)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D0D0D?style=for-the-badge&logo=googlecloud&logoColor=00FFFF)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=00FFFF)
+![Bash](https://img.shields.io/badge/Bash-0D0D0D?style=for-the-badge&logo=gnubash&logoColor=00FFFF)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D0D0D?style=for-the-badge&logo=powershell&logoColor=7B2FBE)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0D0D0D?style=for-the-badge&logo=target&logoColor=FF0000)
+![SIEM](https://img.shields.io/badge/SIEM_Analytics-0D0D0D?style=for-the-badge&logo=elastic&logoColor=00FFFF)
+![LLM](https://img.shields.io/badge/LLM_Engineering-0D0D0D?style=for-the-badge&logo=openai&logoColor=7B2FBE)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=00FFFF)
 
 </div>
 
@@ -62,9 +58,9 @@ $ whoami
 current_projects = {
     "llm-pentest-assistant": "Adding MITRE ATT&CK mapping + SOC detection layer",
     "next_up": "CVE Impact Explainer — plain English CVE breakdowns for devs",
-    "status": "🟢 Actively shipping"
+    "status": "🟣 Actively shipping"
 }
-```
+` ` `
 
 ---
 
@@ -72,9 +68,21 @@ current_projects = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://linkedin.com/in/priya-patil)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/PriyaPPatil22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://linkedin.com/in/priya-patil)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/PriyaPPatil22)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00BFFF&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7B2FBE&height=80&section=footer" width="100%"/>
+```
+
+---
+
+**Changes made:**
+- **"Priya Patil" heading** → hot magenta `FF00FF` (pops against the cyan/purple wave)
+- **Firewall project** added to the table
+- **GitHub stats removed**
+- **New skills added** — Wireshark, Nmap, Bash, PowerShell, SIEM, Prompt Engineering
+- **Color scheme** → cyan `00FFFF` + deep purple `7B2FBE`
+
+Update the firewall project link and LinkedIn URL with your actual ones before pushing!
