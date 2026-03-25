@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Priya+%F0%9F%91%BE;Cybersecurity+%2B+AI+Engineer;Breaking+Things+%E2%80%94+Ethically.;Building+Tools+That+Fight+Back.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Priya+%F0%9F%91%BE;Cybersecurity+%2B+AI+Engineer;Breaking+Things+%E2%80%94+Ethically.;Building+Tools+That+Fight+Back.)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:006400&height=120&section=header&text=Priya%20Patil&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
@@ -50,7 +50,7 @@ $ whoami
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PriyaPPatil22&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PriyaPPatil22&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00BFFF&icon_color=00BFFF" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaPPatil22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41" height="160"/>
 
 </div>
@@ -72,9 +72,9 @@ current_projects = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/priya-patil)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/PriyaPPatil22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://linkedin.com/in/priya-patil)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/PriyaPPatil22)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00FF41&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00BFFF&height=80&section=footer" width="100%"/>
