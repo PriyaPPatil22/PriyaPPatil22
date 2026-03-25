@@ -9,12 +9,12 @@
 ---
 
 ### 🧠 Who Am I?
-````bash
+```bash
 $ whoami
 > Cybersecurity Professional | AI-Powered Threat Intelligence Builder
-> CEH Certified | Google Cloud Cybersecurity | BCA @ D.Y. Patil ACS College
+> CEH Certified | Google Cloud Cybersecurity 
 > Currently hunting vulnerabilities & training LLMs to fight back
-` ` `
+```
 
 ---
 
@@ -24,7 +24,7 @@ $ whoami
 |---|---|---|
 | 🔍 [llm-pentest-assistant](https://github.com/PriyaPPatil22) | LLM-powered pentest tool — scan, enrich, reason, report | Python, Groq, Flask, Scapy |
 | 🛡️ [PyScanner](https://github.com/PriyaPPatil22/pyscanner) | Network security auditor with CVE lookup & PDF reports | Python, Scapy, NVD API |
-| 🔥 [Firewall Project](https://github.com/PriyaPPatil22) | Custom firewall rules & packet filtering implementation | Python, Scapy, iptables |
+| 🔥 [llm-firewall](https://github.com/PriyaPPatil22/llm-firewall) | Custom firewall rules & packet filtering implementation | Python, Scapy, iptables |
 
 ---
 
@@ -39,14 +39,14 @@ $ whoami
 ![Metasploit](https://img.shields.io/badge/Metasploit-0D0D0D?style=for-the-badge&logo=metasploit&logoColor=00FFFF)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D0D0D?style=for-the-badge&logo=burpsuite&logoColor=FF6600)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D0D0D?style=for-the-badge&logo=wireshark&logoColor=00FFFF)
-![Nmap](https://img.shields.io/badge/Nmap-0D0D0D?style=for-the-badge&logo=nmap&logoColor=7B2FBE)
+![Nmap](https://img.shields.io/badge/Nmap-0D0D0D?style=for-the-badge&logo=nmap&logoColor=D8B4FE)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D0D0D?style=for-the-badge&logo=googlecloud&logoColor=00FFFF)
 ![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=00FFFF)
 ![Bash](https://img.shields.io/badge/Bash-0D0D0D?style=for-the-badge&logo=gnubash&logoColor=00FFFF)
-![PowerShell](https://img.shields.io/badge/PowerShell-0D0D0D?style=for-the-badge&logo=powershell&logoColor=7B2FBE)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D0D0D?style=for-the-badge&logo=powershell&logoColor=D8B4FE)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0D0D0D?style=for-the-badge&logo=target&logoColor=FF0000)
 ![SIEM](https://img.shields.io/badge/SIEM_Analytics-0D0D0D?style=for-the-badge&logo=elastic&logoColor=00FFFF)
-![LLM](https://img.shields.io/badge/LLM_Engineering-0D0D0D?style=for-the-badge&logo=openai&logoColor=7B2FBE)
+![LLM](https://img.shields.io/badge/LLM_Engineering-0D0D0D?style=for-the-badge&logo=openai&logoColor=D8B4FE)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=00FFFF)
 
 </div>
@@ -60,7 +60,7 @@ current_projects = {
     "next_up": "CVE Impact Explainer — plain English CVE breakdowns for devs",
     "status": "🟣 Actively shipping"
 }
-` ` `
+```
 
 ---
 
@@ -68,21 +68,9 @@ current_projects = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://linkedin.com/in/priya-patil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://linkedin.com/in/priya-patil-cybersecurity)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/PriyaPPatil22)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7B2FBE&height=80&section=footer" width="100%"/>
-```
-
----
-
-**Changes made:**
-- **"Priya Patil" heading** → hot magenta `FF00FF` (pops against the cyan/purple wave)
-- **Firewall project** added to the table
-- **GitHub stats removed**
-- **New skills added** — Wireshark, Nmap, Bash, PowerShell, SIEM, Prompt Engineering
-- **Color scheme** → cyan `00FFFF` + deep purple `7B2FBE`
-
-Update the firewall project link and LinkedIn URL with your actual ones before pushing!
