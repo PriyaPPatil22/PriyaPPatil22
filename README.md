@@ -22,9 +22,10 @@ $ whoami
 
 | Project | What It Does | Stack |
 |---|---|---|
+| 🔥 [llm-firewall](https://github.com/PriyaPPatil22/llm-firewall) | LLM-powered firewall with regex + semantic threat detection, PII leak prevention & rate limiting | Python, Groq, LLaMA 3.3 70B |
 | 🔍 [llm-pentest-assistant](https://github.com/PriyaPPatil22) | LLM-powered pentest tool — scan, enrich, reason, report | Python, Groq, Flask, Scapy |
 | 🛡️ [PyScanner](https://github.com/PriyaPPatil22/pyscanner) | Network security auditor with CVE lookup & PDF reports | Python, Scapy, NVD API |
-| 🔥 [llm-firewall](https://github.com/PriyaPPatil22/llm-firewall) | Custom firewall rules & packet filtering implementation | Python, Scapy, iptables |
+
 
 ---
 
