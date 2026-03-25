@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Priya+%F0%9F%91%BE;Cybersecurity+%2B+AI+Engineer;Breaking+Things+%E2%80%94+Ethically.;Building+Tools+That+Fight+Back.)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:006400&height=120&section=header&text=Priya%20Patil&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:006400&height=120&section=header&text=Priya%20Patil&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 ```bash
 $ whoami
 > Cybersecurity Professional | AI-Powered Threat Intelligence Builder
-> CEH Certified | Google Cloud Cybersecurity | BCA @ D.Y. Patil ACS College
+> CEH Certified | Google Cloud Cybersecurity | 
 > Currently hunting vulnerabilities & training LLMs to fight back
 ```
 
@@ -31,16 +31,16 @@ $ whoami
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF41)
-![Scapy](https://img.shields.io/badge/Scapy-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00BFFF)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00BFFF)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00BFFF)
+![Scapy](https://img.shields.io/badge/Scapy-000000?style=for-the-badge&logo=python&logoColor=00BFFF)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00BFFF)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6600)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=00BFFF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00BFFF)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logo=target&logoColor=FF0000)
-![LLM](https://img.shields.io/badge/LLM_Engineering-000000?style=for-the-badge&logo=openai&logoColor=00FF41)
+![LLM](https://img.shields.io/badge/LLM_Engineering-000000?style=for-the-badge&logo=openai&logoColor=00BFFF)
 
 </div>
 
